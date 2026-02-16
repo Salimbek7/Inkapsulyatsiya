@@ -1,0 +1,2 @@
+# Inkapsulyatsiya
+Inkapsulyatsiya masalar
